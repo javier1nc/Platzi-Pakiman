@@ -1,6 +1,6 @@
 # Pakiman
 
-![Desktop preview][design/desktop-preview.png]
+![Desktop preview](design/desktop-preview.png)
 
 Bienvenido 
 
