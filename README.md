@@ -2,7 +2,7 @@
 
 ![Desktop preview](design/desktop-preview.png)
 
-Bienvenido 
+Bienvenido! 👋
 
 Creemos nuestro primer juego con lo que hemos aprendido, lo llamaremos Pakiman
 
